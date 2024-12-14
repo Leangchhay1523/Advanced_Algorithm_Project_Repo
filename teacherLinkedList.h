@@ -14,7 +14,7 @@ class TeacherLinkedList{
 public:
 // Methods
   // Constructor 
-  TeacherLinkedList() : head(nullptr);
+  TeacherLinkedList() : head(nullptr) {}
 
   // Create a new teacher record
   void createTeacher(){
