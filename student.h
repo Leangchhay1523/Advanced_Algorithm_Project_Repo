@@ -53,7 +53,6 @@ public:
       finalRank = 'C';
     else if (average >= 60 && average <= 69)
       finalRank = 'D';
-    else if 
   }
 };
 
