@@ -1,0 +1,30 @@
+SD001
+Sok Arha
+Female
+1
+Network,Algorithm,Database,Programming,Robotic
+"Algorithm":89,"Database":79,"Network":78,"Programming":90,"Robotic":95
+86.2
+B
+Very Good
+---
+SD006
+Kan Mo
+Male
+3
+Network,Algorithm,Database,Programming,Robotic,Network,Algorithm,Database,Programming,Robotic
+"Algorithm":89,"Database":99,"Network":90,"Programming":98,"Robotic":88
+92.8
+A
+Excellent
+---
+SD115
+Kook Me
+Male
+3
+Network,Algorithm,Database,Programming,Robotic
+"Algorithm":89,"Database":99,"Network":90,"Programming":89,"Robotic":99
+93.2
+A
+Excellent
+---

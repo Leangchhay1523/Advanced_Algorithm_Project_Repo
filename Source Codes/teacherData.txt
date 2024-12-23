@@ -1,0 +1,30 @@
+TC001
+San San
+Female
+Algorithm
+850
+---
+TC002
+San Su
+Female
+Network
+900
+---
+TC010
+Jackson
+Male
+Programming
+800
+---
+TC100
+Su Sakda
+Male
+Robotic
+800
+---
+TC110
+Ka koo
+Male
+Database
+800
+---
